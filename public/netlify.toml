@@ -1,0 +1,24 @@
+[[redirects]]
+  from = "/"
+  to = "/"
+  status = 200
+  force = false
+
+
+[[redirects]]
+  from = "/about"
+  to = "/"
+  status = 200
+
+
+
+[[redirects]]
+  from = "/contact"
+  to = "/"
+  status = 200
+
+
+[[redirects]]
+  from = "/projects"
+  to = "/"
+  status = 200
